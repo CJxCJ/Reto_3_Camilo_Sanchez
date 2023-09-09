@@ -3,6 +3,9 @@
 En este repositorio presentare el pseudo codigo y diagrama de flujo de diferentes operaciones para allar los numeros primos hasta un valor n y la raiz de un valor n
 
 # Numeros primos
+
+Pasos en pseudo codigo:
+
 ```pseudocode
 	
 x : entero
@@ -18,6 +21,7 @@ inicio
   fin mientras
 fin	  
 ```
+Diagrama de flujo:
 
 ```mermaid
 flowchart TD
@@ -35,6 +39,7 @@ flowchart TD
 
 # Raicecs cuadradas
 
+Pasos en pseudo codigo:
 
 ```pseudocode
 
@@ -67,6 +72,7 @@ inicio
 Fin	   	
 
 ```
+Diagrama de flujo:
 
 ```mermaid
 flowchart TD
